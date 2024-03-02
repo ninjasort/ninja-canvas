@@ -1,0 +1,7 @@
+{
+  "name": "ninja-canvas",
+  "version": "1.0.0",
+  "description": "A set of experiments with canvas.",
+  "main": "index.js",
+  "license": "MIT"
+}
